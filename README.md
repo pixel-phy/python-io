@@ -1,5 +1,5 @@
 Introducción:
-En este repositorio se documenta mi aprendizaje desde algunos fundamentos de Python (archivos) hasta el dominio de herramientas clave para manejo de datos, simulación, optimización y modelado 3D con Blender. De esta manera, pretendo familiarizarme con el perfil profesional de un Operations Research enfocado en logística. 
+En este repositorio se documenta mi aprendizaje desde la implementación de scripts repasando conceptos fundamentales de Python (archivos) hasta el dominio de herramientas clave para manejo de datos, simulación, optimización y modelado 3D con Blender. De esta manera, pretendo familiarizarme con el perfil profesional de un Operations Research enfocado en la logística. 
 
 --- 
 ## Hoja de ruta (temario planeado)
@@ -14,3 +14,9 @@ En este repositorio se documenta mi aprendizaje desde algunos fundamentos de Pyt
 | **SimPy** | Simulación de eventos discretos (colas, procesos) | `simulacion/simpy_taller.py` |
 | **Matplotlib** | Visualización estática e interactiva | `viz/lineas_barras.py` |
 | **Blender** | Scripting en Python para modelado 3D | `blender/crear_cubo.py` |
+
+## Estructura de carpetas
+.
+├── python/archivos/          # scripts de práctica
+│   ├── output/           # Archivos generados por los scripts de python
+├── README.md            # Documentación del Repo
