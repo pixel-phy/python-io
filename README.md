@@ -1,4 +1,4 @@
-Introducción:
+## Introducción:
 En este repositorio se documenta mi aprendizaje desde la implementación de scripts repasando conceptos fundamentales de Python (archivos) hasta el dominio de herramientas clave para manejo de datos, simulación, optimización y modelado 3D con Blender. De esta manera, pretendo familiarizarme con el perfil profesional de un Operations Research enfocado en la logística. 
 
 --- 
@@ -7,7 +7,7 @@ En este repositorio se documenta mi aprendizaje desde la implementación de scri
 | Módulo | Temas | Scripts ejemplo |
 |--------|-------|----------------|
 | **Python fundamentals** | Variables, loops, funciones, clases, manejo de errores | `basicos/variables.py`, `basicos/funciones.py` |
-| **Archivos (semana 12)** | Leer/escribir `.txt`, `.csv`, `json`, manejo de rutas | `archivos/leer_csv.py`, `archivos/escribir_log.py` |
+| **Archivos** | Leer/escribir `.txt`, `.csv`, `json`, manejo de rutas | `archivos/leer_csv.py`, `archivos/escribir_log.py` |
 | **SQL** | Consultas, joins, subconsultas, SQLite desde Python | `sql/consultas_basicas.py` |
 | **NumPy + Pandas** | Arrays, DataFrames, limpieza y transformación de datos | `datos/numpy_ejemplos.py`, `datos/pandas_limpieza.py` |
 | **PuLP + SciPy** | Optimización lineal, álgebra lineal, estadística | `optimizacion/pulp_ejemplo.py` |
