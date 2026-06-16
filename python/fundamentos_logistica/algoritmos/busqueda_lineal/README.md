@@ -42,3 +42,15 @@ def buscar_paquete(almacen, id_paquete):
 • ** Mejor caso ($\Omega$ (1))**: el paquete está al principio -> 1 operación.
 • ** Peor caso ($\Omega$ (n))**: el paquete no está o está al final -> hay que revisar todo.
 • En este algoritmo, mejor y peor caso no crecen igual -> no tiene **$\Theta$** puro.
+```
+
+
+---
+## Las funciones más comunes (de mejor a peor)
+
+1. $O(1)$ - Tiempo constante: El tiempo no cambia sin importar el tamaño de los datos (ej. Acceder al primer elemento de una lista.).
+2. $O(log n)$ - Tiempo Logarítmico: Altamente eficiente. El problema se reduce a la mitad en cada paso. (Ej. Búsqueda binaria en una agenda teléfonica ordenada).
+3. $O(n) - Tiempo lineal: El tiempo crece proporcionalmente al tamaño de los datos. (Ej. Buscar en una lista desordenada).
+4. $O(n log n)$ - Teimpo cuasi - lineal: Es el estandar de oro para los algoritmos de ordenamiento eficientes como Merge Sort o Heap Sort.
+5. $O(n²) - Tiempo cuadrático: El tiempo crece de forma cuadrática. Suele ocurrir cuando tienes bucles anidados (un ciclo dentro de otro ciclo). (Ej. Comparar todos los elementos de una lista contra todos los demás).
+6. $O(2^n) - Tiempo exponencial: El tiempo se duplica con cada elemento nuevo. Se vuelve imposible calcular para valores de n medianos (ej. n = 50). Muchos problemas de optimización matemática pura sufren de esto si se intentan resolver por fuerza bruta.
