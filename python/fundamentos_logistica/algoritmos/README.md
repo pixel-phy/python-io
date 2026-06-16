@@ -20,6 +20,16 @@ El hardware no escala linealmente con los datos. **La eficiencia algorítmica s�
 
 ---
 
+## 📊 Notación asintótica (Big O)
+
+| Notación | Nombre | Significado | Ejemplo |
+|----------|--------|-------------|---------|
+| O(1) | Constante | Tiempo independiente del tamaño | Acceso por índice |
+| O(log n) | Logarítmica | Se reduce a la mitad cada vez | Búsqueda binaria |
+| O(n) | Lineal | Crece proporcionalmente | Búsqueda lineal |
+| O(n²) | Cuadrática | Doble bucle | Burbuja, selección |
+---
+
 ## Las tres notaciones clave
 
 Para medir la eficiencia **sin depender** de la computadora donde se ejecute el código, usamos la **notación asintótica**:

@@ -1,15 +1,5 @@
 # Semana 13: Algoritmos clásicos en logística
 
-## 📊 Notación asintótica (Big O)
-
-| Notación | Nombre | Significado | Ejemplo |
-|----------|--------|-------------|---------|
-| O(1) | Constante | Tiempo independiente del tamaño | Acceso por índice |
-| O(log n) | Logarítmica | Se reduce a la mitad cada vez | Búsqueda binaria |
-| O(n) | Lineal | Crece proporcionalmente | Búsqueda lineal |
-| O(n²) | Cuadrática | Doble bucle | Burbuja, selección |
-
----
 ## Algoritmo de búsqueda lineal
 
 ### Definición
