@@ -87,11 +87,11 @@ batch_prueba = [
 
 ids_limpios, reporte = filtrar_ids_ruteo(batch_prueba)
 
-print("📊 IDs válidos encontrados:")
+print("IDs válidos encontrados:")
 for idx, id_valido in enumerate(ids_limpios, 1):
     print(f"  {idx}. {id_valido}")
 
-print("\n📈 REPORTE DE EFICIENCIA:")
+print("\nREPORTE DE EFICIENCIA:")
 for key, value in reporte.items():
     if key == "detalle_descartes":
         print(f"  {key}:")
