@@ -1,0 +1,5 @@
+Periodo,Demanda,Capacidad,Produccion_Asignada,Inventario_Final,Costo_Produccion_Unitario
+1,100,200,200.0,120.0,10.0
+2,150,200,150.0,120.0,25.0
+3,200,200,180.0,100.0,25.0
+4,100,200,0.0,0.0,25.0
