@@ -1,4 +1,4 @@
-# Clases
+# Clases y POO (Parte 1)
 
 ## Día 1: Clases, Atributos y Métodos de Instancia
 **Conceptos:** `class`, `__init__`, `self`, atributos y métodos de instancia.  
@@ -31,3 +31,28 @@
 
 ## Día 7: Proyecto Integrador
 **Resultado Final:** Sistema completo de gestión de red de transporte operativa, integrando todos los conceptos aprendidos durante la semana.
+
+# Clases y POO (Parte 2)
+
+## Objetivo
+
+Profundizar en Programación orientada a objetos (POO) en Python, cubriendo conceptos avanzados como herencia, polimorfismo, clases abstractas, métodos mágicos y propiedades.
+
+---
+
+## 📋 Contenido de la semana
+
+| Día | Tema | Concepto clave |
+|-----|------|----------------|
+| 1 | Herencia | `class Estudiante(Persona):` |
+| 1 | `super()` | Llamar al constructor del padre |
+| 2 | Sobrescritura de métodos | Modificar comportamiento heredado |
+| 2 | Polimorfismo | Mismo método, diferentes comportamientos |
+| 3 | Clases abstractas | `ABC`, `@abstractmethod` |
+| 3 | Métodos mágicos | `__add__`, `__len__`, `__eq__` |
+| 4 | Composición vs Herencia | Usar objetos dentro de otros |
+| 5 | Propiedades | `@property`, `@setter` |
+| 6 | Ejercicios integradores | Aplicar todo |
+| 7 | Proyecto integrador | Sistema de biblioteca con herencia |
+
+---
