@@ -1,5 +1,4 @@
-"""
-Big countries
+""" Big countries
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
