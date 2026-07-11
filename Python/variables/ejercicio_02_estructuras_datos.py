@@ -11,7 +11,7 @@ almacenes = [
 # Órdenes del día (lista mutable)
 ordenes = ["ORD-101", "ORD-102", "ORD-103"]
 
-"""Agregar una nueva orden "ORD-104" a la lista ordenes y luego imprime la primera tuple de almacenes. """
+"""Agregar una nueva orden "ORD-104" a la lista ordenes y luego imprime la primera tupla de almacenes. """
 
 ordenes.append("ORD-104")
 x, *rest = almacenes
