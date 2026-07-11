@@ -1,16 +1,17 @@
 ## Introducción:
-En este repositorio se documenta mi aprendizaje desde la implementación de scripts repasando conceptos fundamentales de Python (archivos) hasta el dominio de herramientas clave para manejo de datos, simulación, optimización y modelado 3D con Blender. De esta manera, pretendo familiarizarme con el perfil profesional de un Operations Research enfocado en la logística. 
+
+En este repositorio se documenta la ruta de aprendizaje de las librerías y herramientas utilizadas en Python en la Investigación de Operaciones (IO). Se pretende compartir la implementación de scripts en donde se repasen los conceptos fundamentales de Python, hasta el dominio de librerías y herramientas clave en el manejo de datos, simulación, optimización y modelado 3D con Blender. 
 
 --- 
 ## Hoja de ruta (temario planeado)
 
 | Módulo | Temas |
 |--------|-------|
-| **Python fundamentals** | Variables, archivos, loops, funciones, algoritmos, clases, manejo de errores |
+| **Python fundamentals** | Variables, tipos de datos, operaciones aritméticas, bucles, condicionales, funciones, estructura de datos, archivos, algoritmos, clases, manejo de errores |
 | **NumPy + Pandas** | Arrays, DataFrames, limpieza y transformación de datos |
-| **PuLP + SciPy** | Optimización lineal, álgebra lineal, estadística |
-| **Pyomo** | Fundamentos esenciales, técnicas avanzadas de modelado, solucionadores y optimización de desempeño.  |
-| **SQL** | Consultas, joins, subconsultas, SQLite desde Python -> Después migrar a PostgreSQL |
-| **SimPy** | Simulación de eventos discretos (colas, procesos) |
-| **Matplotlib** | Visualización estática e interactiva | 
-| **Blender** | Scripting en Python para modelado 3D |
+| **Matplotlib + Seaborn** | Visualización estática e interactiva, gráficos profesionales |
+| **SQL** | Consultas, joins, subconsultas, PostgreSQL |
+| Scikit-learn | Fundamentos de Machine Learning, modelos predictivos |
+| **PuLP + Pyomo** | Optimización lineal, álgebra lineal, estadística, fundamentos esenciales, técnicas avanzadas de modelado, solucionadores y optimización de desempeño  |
+| **Scipy + SimPy** | Simulación de eventos discretos (colas, procesos) | 
+| **Keras + Blender** | Modelo LSTM para series temporales con gráficas de entrenamiento. Scripting en Python para modelado 3D y simulaciones |
